@@ -1,0 +1,1 @@
+{"jobID":"b2d8bdcd-6570-157b-eaa0-bfd2bba3227d","spec":{"type":"policy","cause":{"Message":"","User":"Archit Bharadwaj \u003carchit.bharadwaj1@ikea.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:1.4.*"},"remove":{}}}},"result":null}
